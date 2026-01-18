@@ -29,3 +29,5 @@
   - Reactコンポーネントライブラリ制作(Waveアニメーション付き)
 - **[strength-training-app](https://github.com/tnakamuranttk-jpg/strength-training-app)**
   - 筋トレの達成と共にキャラクターが成長(マッチョ)していくアプリ
+- [cocktail-app](https://github.com/tnakamuranttk-jpg/cocktail-app)
+  - カクテルアプリ
