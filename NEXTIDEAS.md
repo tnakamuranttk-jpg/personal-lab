@@ -17,7 +17,7 @@
 
 ### iOS
 - [ ] カクテルアプリ
-- [ ] 育成型 筋トレアプリ
+- [x] 育成型 筋トレアプリ：[strength-training-app](https://github.com/tnakamuranttk-jpg/strength-training-app)
 - [ ] 終電確認アプリ
 
 ### WEB
